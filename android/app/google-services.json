@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120861823355",
+    "project_id": "fortunabetapp",
+    "storage_bucket": "fortunabetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120861823355:android:ea1074b914a5fd2bbf6dde",
+        "android_client_info": {
+          "package_name": "com.fortunabetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOn0eVQyjWqQGTViEPM6tQ-I5zLCf-mV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120861823355:android:be4c544087846042bf6dde",
+        "android_client_info": {
+          "package_name": "com.sazeninasport.fortuna.bet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOn0eVQyjWqQGTViEPM6tQ-I5zLCf-mV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
